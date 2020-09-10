@@ -1,0 +1,13 @@
+First name of target?
+Middle name of target?
+Last name of target?
+Maiden name of target?
+Target's Birthday (MM/DD/YYYY)?
+Other keywords related to target (comma separated, spaces will not be ignored)?
+Change capitalization [Y/n]?
+Maximum number of words to combine [2]?
+Maximum number of characters between words [0]?
+Maximum number of characters at end of password [0]?
+Include letters between words [Y/n]?
+Include digits between words [Y/n]?
+Include weird characters between words (!, @, etc.) [Y/n]?

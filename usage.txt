@@ -1,0 +1,9 @@
+Python wordlist generator using personal information. See --help for usage.
+
+Usage:
+./WLM.py [OPTIONS] outfile
+
+Options:
+--help           -h   | Display usage information
+--interactive    -i   | Run in interactive mode
+--infile         -f   | Input filename
